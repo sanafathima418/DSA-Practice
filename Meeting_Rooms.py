@@ -20,7 +20,8 @@ class Solution(object):
             if new_intervals[i][0] < new_intervals[i-1][1]:
                 # Return False
                 return False
-                
+        
+        # If it reached the end, return True as the person can attend all meetings        
         return True
                 
         
