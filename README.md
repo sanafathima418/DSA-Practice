@@ -4,7 +4,7 @@
 2. Meeting Rooms 2
 3. Remove nth node from end of list 
 4. Count Complete Tree Nodes - Solved using DFS, Revisit to use the complete property of complete binary Tree
-5. Diameter of Binary Tree 
+5. Diameter of Binary Tree  - 84/104 Test cases, need to consider 2 more cases, where left/right subtree alone consist of longest path
 6. Longest Substring without Repeating Characters 
 7. Longest Substring with At Most Two Distinct Characters
 8. Two Sum
