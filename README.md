@@ -16,3 +16,8 @@
 14. Jump Game
 15. Maximize Distance to Closest Person
 16. Best Time to buy and sell Stocks
+17. Course Schedule 2 - Solved using Topo Sort(DFS), Revisit to solve this using Kahn's Algorithm
+18. Strobogrammatic Number 1 
+19. Most Stones Removed with Same Row or Column
+
+
