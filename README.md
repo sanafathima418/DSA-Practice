@@ -19,6 +19,7 @@
 17. Course Schedule 2 
 18. Strobogrammatic Number 1 
 19. Most Stones Removed with Same Row or Column
-20. 
-
+20. Backspace String Compare
+21. Letter Combinations of a Phone Number
+22. Generate Parentheses
 
