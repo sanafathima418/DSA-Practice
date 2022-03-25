@@ -51,6 +51,7 @@ class Solution:
             return phone_dict[digits[0]]
         
         # Traverse through digits string, one number at a time
+        # Imp: Path should always be a list/stack so we can remove the last traversed node
         backtrack([],0)
         
         return combo_list
