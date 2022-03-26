@@ -22,4 +22,21 @@
 20. Backspace String Compare
 21. Letter Combinations of a Phone Number
 22. Generate Parentheses
-
+23. Evaluate Division
+24. Longest Palindromic String
+25. Min Stack
+26. LRU Cache
+27. Maximum Subarray
+28. Merge Intervals
+29. Coin Change
+30. Maximum Product SubArray
+31. Minimum Window Substring
+32. Serialize and Deserialize Binary Tree
+33. Longest Increasing Path in a Matrix
+34. Guess the word
+35. Word Search 2
+36. Split Array Largest Sum
+37. Robot Room Cleaner
+38. Count of Smaller Numbers after self
+39. Median of 2 sorted array
+40. Merge k sorted lists
