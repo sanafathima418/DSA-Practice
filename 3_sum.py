@@ -1,6 +1,22 @@
 # https://leetcode.com/problems/3sum/
 
 class Solution:
+    
+    # Time Complexity: O(n^2)
+    # Space Complexity: O(1)
+    
+    # Solution: 
+    # 1. Sort the array in increasing order.
+    # 2. Traverse through every element in the array until greater than 0(as numbers >0 cannot sum to 0 or target)
+    # 3. For every element set new target as original target - current element
+    # 4. Call 2 Sum II on the new target and array from i+1 to n.
+    
+    # Approach 2 sum II: 2 pointers - low and high
+    # 1. Set low as first array element and high as last array element - Reflect states from array passed
+    # 2. Until low is less than high, add low and high
+    # 3. If sum is greater than target - decrement high
+    # 4. If sum is lower than target - increment low
+    
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
         visited_dict = {}
