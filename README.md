@@ -1,4 +1,18 @@
-# Leetcode-Practice-Google
+# Leetcode-Practice
+
+- Arrays and Strings
+- Stacks
+- Queues(Normal)
+- Linked List(Singly, doubly, circular)
+- Trees and Graphs
+- Tree Traversal - DFS, BFS
+- Heaps and Priority Queues
+- Ordered Dictionary
+- Backtracking 
+- Union Find
+- Dynamic Programming
+
+## Problems - Google
 
 1. Meeting Rooms 
 2. Meeting Rooms 2
