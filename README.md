@@ -11,6 +11,7 @@
 - Backtracking 
 - Union Find
 - Dynamic Programming
+- Deque, Monotonic Stack
 
 ## Problems - Google
 
